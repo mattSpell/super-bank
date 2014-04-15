@@ -1,0 +1,29 @@
+body {
+  line-height: 1.7em;
+}
+.container {
+  width: 500px;
+}
+h1 {
+  text-align: center;
+}
+.cz {
+  border: 1px solid black;
+  width: 150px;
+  text-align: center;
+}
+#balance {
+  text-align: center;
+}
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+.left {
+  width: 400px;
+  margin: auto;
+}
+.right {
+  width: 400px;
+  margin: auto;
+}
