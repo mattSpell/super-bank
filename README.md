@@ -7,4 +7,4 @@ This app uses:
 * Less
 * Grunt
 * JSHint
-* Node.js
+* jQuery
